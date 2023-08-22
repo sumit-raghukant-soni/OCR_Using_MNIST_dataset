@@ -10,7 +10,6 @@ Here, I have added the python notebook of implementation of model trained basis 
 - [Prerequisites](#prerequisites)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
